@@ -17,3 +17,4 @@ In this two part video review, we'll cover the history of Object Orientation, a 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/oXwdOdBUyCI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-video-review-object-orientation-and-scraping'>OO Ruby Video Review: Object Orientation and Scraping</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Overview</p>
